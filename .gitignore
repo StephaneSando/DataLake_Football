@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.pkl
+airflow/logs/
+airflow/plugins/
+.ipynb_checkpoints/
