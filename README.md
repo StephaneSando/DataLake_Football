@@ -1,6 +1,6 @@
-# Football Data Lake - EFREI 2025-2026
+# Football Data Lake
 
-Projet final du cours **Data Lakes & Data Integration** (Yvann Vincent, EFREI Paris).
+Projet final du cours **Data Lakes & Data Integration**
 
 Data lake complet sur la Premier League anglaise, de l'ingestion brute jusqu'à l'exposition via API, avec un modèle de Machine Learning (XGBoost) intégré au pipeline pour prédire l'issue des matchs (victoire domicile / nul / victoire extérieur).
 
